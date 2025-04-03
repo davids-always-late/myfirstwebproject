@@ -1,0 +1,41 @@
+/*
+red #9D352E
+srt  #6AB9D9
+blb  #4D8C30
+chr  #D96704
+background #F2E085
+
+*/
+
+body{background-color: #f2e9bb;
+padding: 0 24px 36px 24px;
+}
+
+a{color: #39b300;font-weight: bold;}
+a:hover{color: #6AB9D9;}
+
+h1{color: #ca352a;text-align: center;}
+
+h2{color: #ca352a;}
+
+p.pic{text-align: center;}
+
+p, li, table{font-size: 1.3em;}
+
+table{border-collapse: collapse; margin-left: auto; margin-right: auto;}
+
+/*
+block
+specified width
+set left and right margin equale
+*/
+
+th, td {
+    /*border-color: #D982CA;
+    border-style: solid;
+    border-width: 3px;*/
+    border: #D982CA, solid, 4px;
+    padding: 5px;
+}
+
+
