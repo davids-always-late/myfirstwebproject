@@ -1,0 +1,30 @@
+/*
+  white: #FFFFFF
+  blue #4657D0
+  compliment  #D0BF46
+  purp #A657D0
+*/
+
+h1, h2, h3{color: #4657D0;}
+
+h1{text-align: center;}
+
+table{border-collapse: collapse;}
+
+th,td{border: #A657D0 solid 5px; padding: 8px;}
+
+a{color: #4657D0;font-weight: bold;text-decoration: none;}
+
+a:hover{color: #A657D0;}
+
+p.text{background-color: #4657D0;color: #FFFFFF;width: 500px;height: 200px;
+padding: 50px; border: #A657D0 ridge 7px; margin: 30px;
+}
+
+
+div{background-color: #4657D0; width: 646px; padding: 20px;
+border: #A657D0 groove 7px; margin: 25px; text-align: center;
+}
+
+body{padding: 20px;}
+
